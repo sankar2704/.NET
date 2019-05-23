@@ -1,0 +1,126 @@
+C# : 
+OOPS Concepts - Abstraction, Inheritance, Encapsulation, Polymorphism
+Constructor and Destructor
+Difference between Abstract class and Interface
+Access modifiers in C# .NET
+Constant and ReadOnly
+Static Keyword
+Delegate
+Anonymous methods and types (http://www.tutorialspoint.com/csharp/csharp_anonymous_methods.htm)
+
+Lambda Expressions
+C# generics
+C# Threading
+Garbage Collection
+Exception Handling
+Managed and Unmanaged Code
+Assebmlies (Private, Shared)
+What is the usage of CLR, CTS,CLS
+Difference between Finalize and Dispose
+.NET Execution
+Sealed Class, Abstract Class
+Sync and Async process
+
+MVC :
+what is MVC
+Versions and differences
+MVC Life Cycle
+Routing in MVC
+Folder structure in MVC
+TempData, ViewData, ViewBag
+Partial Views
+Authentication Authorization
+Filters
+Scaffolding
+Razor View Engine
+Html.Textbox and Html.TextboxFor difference
+how to Maintain session
+Mention what is the difference between “ActionResult” and “ViewResult”
+List out the types of result in MVC
+
+SQL :
+What is SQL
+DDL and DML and DCL statements
+Constraints
+Joins
+Procedure
+Functions
+Difference between function and procedure
+Like, IN, BETWEEN operators
+Transcation-Commit, Rolback
+Normalization
+Views in SQL
+Trigger
+Clustred and Non-Clustered Index
+Cursors
+Try, Catch
+HAVING and GROUP BY
+In-Out parameters
+Sub-Queries
+
+ASP.NET :
+What is ASP.Net
+ViewState (http://www.c-sharpcorner.com/UploadFile/225740/what-is-view-state-and-how-it-works-in-Asp-Net53/)
+What are Client side and server side state management techniques
+Postback
+Validators
+Caching
+Life-Cycle
+Config files
+Global.asax
+folder structure
+Cookies
+Page - Directives
+USer Controls and custom controls
+
+WPF :
+(http://www.codeproject.com/Articles/744082/WPF-Interview-questions-with-answers)
+(http://www.c-sharpcorner.com/UploadFile/8ef97c/most-asked-wpf-interview-questions-and-answers/)
+What is WPF
+What is the need of WPF when we had windows forms
+What is xmlns in XAML file?
+What is the difference between xmlns and xmlns:x in WPF ?
+Bindings
+Resources Explain the difference between static and dynamicresource?
+INotifyPropertyChanged
+Triggers
+Styles
+What is value convertor in WPF
+What is MVVM
+What is Prism in WPF
+What is the difference between MVP, MVC and MVVM
+Templates
+Layout Panels
+Dependency Properties
+Namespaces in xaml
+
+ADO.NET : 
+ExecuteCommand
+ExecuteScalar
+ExecuteNonQuery
+Connection to DB
+Using Config files
+Executing SP 
+SP with in and out parameters
+
+LINQ :
+
+
+
+
+
+
+
+
+javascript,CSS,HTML,CodeReview,CodeCoverage,UnitTest,
+tutorialspoint,tutorialsteacher,dotnetcurry
+
+MVC
+Entity Framework
+SQL
+C#, net
+dependency Injection
+
+Entity Framework
+ASP LIFE CYCLE
+MVC LFE CYCLE
